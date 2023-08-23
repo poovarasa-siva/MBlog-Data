@@ -5,6 +5,10 @@
             {
                 "id":"0686eb1d-1083-4b44-819a-2b178101bbce",
                 "title":".NET Core"
+            },
+            {
+                "id":"928e77a5-014b-49ae-81d0-9c7da2ade12d",
+                "title":"Angular"
             }
         ]
     }
